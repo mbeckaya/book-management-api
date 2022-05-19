@@ -1,7 +1,6 @@
 # book-management-api
 This project is an API for creating, reading, updating and deleting book entries.
-
-[//]: # (There is a separate [book-management-frontend]&#40;https://github.com/mischbeckaya/book-management-frontend&#41; repository for the frontend.)
+There is a separate [book-management-frontend](https://github.com/mischbeckaya/book-management-frontend) repository for the frontend.
 
 ## Requirements
 - [Node.js 14+](https://nodejs.org/en/)
